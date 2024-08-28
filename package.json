@@ -15,7 +15,6 @@
     "react-dom": "^18"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.25.1",
     "autoprefixer": "^10.4.20",
     "eslint": "^9.9.1",
     "eslint-config-next": "14.2.6",
